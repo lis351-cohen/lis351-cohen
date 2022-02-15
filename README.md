@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
+<p>Hello World.<p>My name is Sophia Cohen.
+
+</body>
+</html>
